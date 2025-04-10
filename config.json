@@ -1,8 +1,8 @@
 {
-	"ip": "YOUR_SERVER_IP",
-	"port": "YOUR_SERVER_PORT",
-	"version": "YOUR_SERVER_VERSION",
-	"username": "NoNameBot",
+	"ip": "sugarcanejoos.aternos.me",
+	"port": "60498",
+	"version": "1.21.4",
+	"username": "Nihal",
 	"autonightskip": false,
 	"pi": 3.14159,
 	"moveinterval": 2,
